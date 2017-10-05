@@ -4,4 +4,4 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    device/aosip/sepolicy/common
+    device/aim/sepolicy/common
